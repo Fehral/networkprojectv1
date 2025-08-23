@@ -5,7 +5,7 @@
 Static IPv4 Addressing  
  * manual addressing as opposed to dynamic/automatic addressing
  * used in smaller networks in lieu of configuring a DHCP server
- * dedicated devices such as servers and router interfaces are usually statically-addressed
+ * dedicated devices such as servers, printers, and router interfaces are usually statically-addressed
 
 Subnetting
  * divides larger networks into smaller networks, subnetworks, subnets
