@@ -10,8 +10,8 @@ Static IPv4 Addressing
 Subnetting
  * divides larger networks into smaller networks, subnetworks, subnets
  * subnets have their own broadcast domain, broadcast packets are not routed outside of the subnet
- * subnet masks identify the network to which a device belongs, i.e., a subnet mask of 255.255.255.0 identifies a network capable of hosting up to 254 devices (the first address is the network address and the last address is the broadcast address)
- * network bits are borrowed from host bits to create subnets, i.e., a 24-bit network address will have to borrow 1 host bit to create two subnets
+ * subnet masks identify the network to which a device belongs, e.g., a subnet mask of 255.255.255.0 identifies a network capable of hosting up to 254 devices (the first address is the network address and the last address is the broadcast address)
+ * network bits are borrowed from host bits to create subnets, e.g., a 24-bit network address will have to borrow 1 host bit to create two subnets
 
 <p align=center>
  <img src="https://github.com/Fehral/networkprojectv1/blob/main/subnetting.png?raw=true">
