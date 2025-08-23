@@ -22,7 +22,7 @@ Subnetting
 </p>
 
 <p align=center>
- <img src="https://github.com/Fehral/networkprojectv1/blob/main/networkprojectv1_topology.png?raw=true"></img>
+ <img src="https://github.com/Fehral/networkprojectv1/blob/main/networkprojectv1topology.png?raw=true"></img>
 </p>
 
 R1 Configuration
