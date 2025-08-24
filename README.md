@@ -38,5 +38,8 @@ Router(config-if)#ip address 192.168.1.129 255.255.255.128
 Router(config-if)#exit
 Router(config)#exit
 Router#copy run start
+Destination filename [startup-config]? [Enter]
+Building configuration...
+[OK]
 ```
 
