@@ -35,8 +35,7 @@ Router(config-if)#ip address 192.168.1.1 255.255.255.128
 Router(config-if)#int g0/1
 Router(config-if)#no shutdown
 Router(config-if)#ip address 192.168.1.129 255.255.255.128
-Router(config-if)#exit
-Router(config)#exit
+Router(config-if)#end
 Router#copy run start
 Destination filename [startup-config]? [Enter]
 Building configuration...
